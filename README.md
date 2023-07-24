@@ -1,4 +1,4 @@
-#Plant Disease Detection using CNN
+## Plant Disease Detection using CNN
 
 
 Plant diseases have a significant impact on agricultural productivity and food security worldwide. Identifying and diagnosing plant diseases in a timely manner are crucial for effective disease management and mitigation. Traditional methods of disease diagnosis rely on visual inspection by experienced plant pathologists, which can be time-consuming and often prone to human error. To address these challenges, machine learning techniques, particularly Convolutional Neural Networks (CNNs), have emerged as powerful tools for automated plant disease detection and classification.
